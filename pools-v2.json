@@ -1738,14 +1738,5 @@
     ],
     "tags": ["/Bitlayer/"],
     "link": "https://www.bitlayer.org/"
-  },
-  {
-    "id": 161,
-    "name": "Bitlayer local",
-    "addresses": [
-      "bcrt1qgt6slvkw47fgwe5c60lmfkyj8jt68n5gra0yur"
-    ],
-    "tags": ["/Bitlayer local/"],
-    "link": "https://www.bitlayer.org/"
-  },
+  }
 ]
