@@ -1729,5 +1729,14 @@
     ],
     "tags": ["/Mining-Dutch/"],
     "link": "https://www.mining-dutch.nl/"
+  },
+  {
+    "id": 160,
+    "name": "Bitlayer",
+    "addresses": [
+      "tb1q87fy4zga2ch2us4vrthnsegdykjhjd5xjhsapn"
+    ],
+    "tags": ["/Bitlayer/"],
+    "link": "https://www.bitlayer.org/"
   }
 ]
